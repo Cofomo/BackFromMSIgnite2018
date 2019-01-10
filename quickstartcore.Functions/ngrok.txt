@@ -1,0 +1,17 @@
+https://hackernoon.com/using-ngrok-with-azure-functions-7e209e96538c
+
+https://blogs.msdn.microsoft.com/brandonh/2017/11/30/locally-debugging-an-azure-function-triggered-by-azure-event-grid/
+
+https://www.itidea.nl/index.php/ngrok-testing-local-azure-function/
+
+https://stapp.space/how-to-test-azure-function-on-localhost-from-the-internet/
+
+https://stackoverflow.com/questions/51675648/azure-event-grid-function-ngrok
+
+https://www.reddit.com/r/AZURE/comments/6w63no/using_ngrok_with_azure_functions_serverless/
+
+http://intranoggin.com/Blog/July-2017/Using-ngrok-with-Azure-Functions.aspx
+
+https://pmdevweb.wordpress.com/2018/03/12/debugging-azure-functions/
+
+https://github.com/Azure/azure-functions-eventgrid-extension/issues/61
